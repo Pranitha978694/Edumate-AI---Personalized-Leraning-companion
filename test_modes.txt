@@ -1,0 +1,5 @@
+This is a test document to verify the multi-mode summary feature.
+It contains basic concepts, intermediate details, and advanced technical jargon.
+Basic: The sky is blue.
+Intermediate: The sky appears blue due to Rayleigh scattering.
+Advanced: The rigorous derivation of Rayleigh scattering involves the electric dipole approximation and shows the cross-section is proportional to the fourth power of the frequency.
